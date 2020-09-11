@@ -151,6 +151,7 @@ assign [class="Thunar"] $ws4
 assign [class="balena-etcher-electron"] $ws10
 assign [class="Arandr"] $ws7
 assign [class="discord"] $ws3
+assign [class="MultiMC5"] $ws5
 
 # Spotify is special since it's an asshat
 for_window [class="Spotify"] move to workspace $ws8
